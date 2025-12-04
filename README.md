@@ -11,5 +11,3 @@
 - ⌨️ My Current Projects : Cash Walk, Linkareer
 - 💬 Email1 : kdh2646@naver.com
 - 💬 Email2 : k.dh@cashwalk.io
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddohKim&show_icons=true&theme=radical)
