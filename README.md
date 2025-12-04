@@ -8,7 +8,7 @@
 - 🎓 My Majors : Mathematics, Compuer Science
 - 🔭 My Current Company : [CashWalk](https://cashwalk.com/)
 - 👨‍💻 My Current Role : Deputy Team Leader in CashWalk
-- ⌨️ My Current Projects : Cash Walk, KOING
+- ⌨️ My Current Projects : Cash Walk, Linkareer
 - 💬 Email1 : kdh2646@naver.com
 - 💬 Email2 : k.dh@cashwalk.io
   
